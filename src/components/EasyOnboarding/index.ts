@@ -1,0 +1,1 @@
+export { EasyOnboardingPage } from './EasyOnboarding';
